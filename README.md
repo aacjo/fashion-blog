@@ -6,8 +6,7 @@ This project practices structuring a webpage with semantic HTML elements such as
 ---
 
 ## 🪞 Live Demo
-Once published on GitHub Pages, you can view it here:  
-👉 [https://aacjo.github.io/fashion-blog/](https://aacjo.github.io/fashion-blog/)
+👉 [View the live site here!](https://aacjo.github.io/fashion-blog/)
 
 ---
 
